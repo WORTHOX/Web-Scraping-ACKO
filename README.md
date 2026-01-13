@@ -32,29 +32,24 @@ The API returns raw JSON. To make this data compatible with standard parsing log
 
 ---
 
-## Part 2: The Strategic Brain (Business Analysis) \ud83d\udcca
+## Part 2: The Strategic Brain (Business Analysis) 📊
 
 We didn't just collect data; we interrogated it. The `Analysis On ACKO Web site.ipynb` notebook provides a **360-degree Market Scan**:
 
-### \ud83c\udf1f 1. Market Overview
-*   **Inventory Share**: Analyzing "ACKO Platform Inventory Share" to see which brands dominate the listings (Platform Availability vs Market Share).
-*   **Regional Heatmaps**: Availability density across Maharashtra, Delhi, Karnataka, and more.
+### 🌟 1. Market Overview
+We analyze the **"ACKO Platform Inventory Share"** to see which brands dominate the listings. This acts as a proxy for platform availability versus national market share. We also map availability density across key states like **Maharashtra** and **Delhi**.
 
-### \ud83d\udcb8 2. Consumer Insights
-*   **The Value Matrix**: A quadrant analysis identifying **"High Value Gems"** (Low Price, High Rating) vs Overpriced assets.
-*   **Cost Structure**: "Dumbbell Plots" revealing the massive price gap between Base and Top variants.
-*   **Reliability Index**: Identifying brands with the highest customer satisfaction ratings.
+### 💸 2. Consumer Insights
+Our **Value Matrix** quadrant analysis identifies **"High Value Gems"** (Low Price, High Rating) versus overpriced assets. We also use **"Dumbbell Plots"** to reveal the massive price gap between Base and Top variants, along with a **Reliability Index** to spotlight customer satisfaction leaders.
 
-### \ud83d\ude80 3. Strategic Deep Dive
-*   **ACKO Portfolio Segmentation**: A reality check on "Premium Bias" - differentiating between the online urban user base and the national budget market.
-*   **The SUV Battleground**: Who is winning the most competitive segment in India?
-*   **Green Adoption**: Which states are leading the charge in EV and Hybrid penetration?
+### 🚀 3. Strategic Deep Dive
+A reality check on **"Premium Bias"**—differentiating between the online urban user base and the national budget market. We also identify the winner of the **SUV Battleground** and track **Green Adoption** (EV/Hybrid penetration) across states.
 
 ---
 
 ## 🛠️ File Structure
-*   `AckoDrive_Scraper_Finalized.ipynb` \u2192 **The Engine** (Data Collection)
-*   `Analysis On ACKO Web site.ipynb` \u2192 **The Brain** (Data Science & Strategy)
+*   `AckoDrive_Scraper_Finalized.ipynb` → **The Engine** (Data Collection)
+*   `Analysis On ACKO Web site.ipynb` → **The Brain** (Data Science & Strategy)
 
 ---
 
